@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.animated-dot-grid" path="/org/gnome/shell/extensions/animated-dot-grid/">
+    <key name="dot-color" type="s"><default>'#6e96a8'</default></key>
+    <key name="dot-spacing" type="d"><default>13.0</default><range min="4.0" max="100.0"/></key>
+    <key name="dot-size" type="d"><default>1.7</default><range min="1.0" max="30.0"/></key>
+    <key name="circle-size" type="d"><default>420.0</default><range min="10.0" max="1000.0"/></key>
+    <key name="circle-direction" type="d"><default>25.0</default><range min="0.0" max="359.0"/></key>
+    <key name="random-direction" type="b"><default>false</default></key>
+    <key name="circle-count" type="i"><default>2</default><range min="1" max="12"/></key>
+    <key name="circle-blur" type="d"><default>260.0</default><range min="0.0" max="500.0"/></key>
+    <key name="circle-speed" type="d"><default>30.0</default><range min="0.0" max="1000.0"/></key>
+    <key name="background-color" type="s"><default>'#000000'</default></key>
+    <key name="apply-to-overview" type="b"><default>true</default></key>
+    <key name="debug-transitions" type="b"><default>false</default></key>
+  </schema>
+</schemalist>

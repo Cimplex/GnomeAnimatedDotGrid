@@ -1,0 +1,9 @@
+{
+  "uuid": "animated-dot-grid@local",
+  "name": "Animated Dot Grid",
+  "description": "A subtle, GPU-rendered animated dot grid behind desktop windows.",
+  "shell-version": ["50"],
+  "settings-schema": "org.gnome.shell.extensions.animated-dot-grid",
+  "version": 1,
+  "url": "https://example.invalid/animated-dot-grid"
+}
