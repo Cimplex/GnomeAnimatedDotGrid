@@ -8,6 +8,14 @@ animation are suppressed, and the grid is temporarily stacked above the real
 window group so only Shell's animated window clones move over it. No video or
 image assets are used.
 
+## Preview
+
+[![Animated Dot Grid running on the GNOME desktop](media/preview.gif)](media/animated-dot-grid.mp4)
+
+[Watch or download the full-resolution video](https://github.com/Cimplex/GnomeAnimatedDotGrid/raw/refs/heads/main/media/animated-dot-grid.mp4)
+(4096 × 2560, 30 FPS). The preview above is reduced in size; open the video to
+see the fine dots at the original resolution.
+
 ## Install for development
 
 ```bash
